@@ -8,7 +8,20 @@ tmp/nanoc/
 
 # Crash Log
 crash.log
+
+# Dependencies
 modulo01/node_modules/
 modulo02/node_modules/
+modulo03/node_modules/
+modulo04/node_modules/
+modulo05/node_modules/
+modulo06/node_modules/
+modulo07/node_modules/
+modulo08/node_modules/
+modulo09/node_modules/
 desafio01/node_modules/
 desafio02/node_modules/
+desafio03/node_modules/
+desafio04/node_modules/
+desafio05/node_modules/
+desafio06/node_modules/
